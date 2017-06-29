@@ -9,3 +9,6 @@
 ---
 - Resonance: broad states with finite widths and lifetimes, which can be formed by collision between the particles into which they decay
 - The exponential time dependence determines the form of the line shape of the resonance: the energy dependence of the cross-section for creating the resonant state from its constituents is simply $$the Fourier transform$$ of the time pulse
+---
+- The wave function of particle with energy $$E_R$$ is $$\psi(t)=\psi(0)e^{-i\omega_Rt}e^{-t/2\pi}=\psi(0)e^{-t(iE_R+\Gamma/2)}$$
+    - the central angular frequency: $$\omega_R=E_R/\hbar$$, the lifetime: $$\tau=\hbar/\Gamma$$
