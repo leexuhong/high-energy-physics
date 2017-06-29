@@ -12,3 +12,4 @@
 ---
 - The wave function of particle with energy $$E_R$$ is $$\psi(t)=\psi(0)e^{-i\omega_Rt}e^{-t/2\pi}=\psi(0)e^{-t(iE_R+\Gamma/2)}$$
     - the central angular frequency: $$\omega_R=E_R/\hbar$$, the lifetime: $$\tau=\hbar/\Gamma$$
+    - the probability of finding particle at time $$t$$: $$P=|\psi(t)|^2=|\psi(0)e^{-iE_Rt}|^2e^{-\Gamma t}$$ in units $$\hbar=c=1$$, which means $$N_A(t)=N_A(0)exp(-\frac{\Gamma t}{\hbar})$$
