@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Interaction](interaction.md)
+* [Interactions and fields](interaction.md)
 
